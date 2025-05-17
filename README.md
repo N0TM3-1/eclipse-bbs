@@ -61,4 +61,6 @@ To connect to Eclipse BBS:
 
 ---
 
+Get more info and follow the development [here](https://spotted-port-3af.notion.site/Eclipse-BBS-Design-Document-1f5ad7c592da80c98cb4f5682da90c71?pvs=4)
+
 *Eclipse BBS - Where Hack Clubbers Meet the Retro World*
