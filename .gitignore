@@ -1,0 +1,12 @@
+data/
+docs/
+echomail/
+files/
+localqwk/
+logs/
+msgs/
+semaphore/
+temp1/
+tempmis/
+
+.vscode/
