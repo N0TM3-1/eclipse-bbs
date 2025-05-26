@@ -1,0 +1,4 @@
+; &1=Login attempt &2=Allowed attempts &3=Remaining attempts
+000 |DFpreuser||CR|01[|10þ|01] |09Enter your user name: |XX
+; Standard user login: User's password
+002 |CR|01[|10þ|01] |09Enter your password: |XX |-Y

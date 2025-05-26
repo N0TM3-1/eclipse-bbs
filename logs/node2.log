@@ -1,0 +1,1410 @@
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.10 20:40:53 Connect from local (local)
+2025.05.10 20:40:53 Setting time left to 30
+2025.05.10 20:41:34 Irregular shutdown event
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.10 21:56:40 Connect from local (local)
+2025.05.10 21:56:40 Setting time left to 30
+2025.05.10 21:56:55 joe logged in
+2025.05.10 21:56:55 Setting time left to 120
+2025.05.10 21:56:55 Setting menu to "main" (Default start menu)
+2025.05.10 22:01:28 User logged off
+2025.05.10 22:01:28 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 00:40:24 Connect from local (local)
+2025.05.11 00:40:24 Setting time left to 30
+2025.05.11 00:40:29 dumi logged in
+2025.05.11 00:40:29 Setting time left to 998
+2025.05.11 00:40:30 Setting menu to "main" (Default start menu)
+2025.05.11 00:40:54 User: dumi
+2025.05.11 00:40:54 Bad password attempt
+2025.05.11 00:40:59 Bad password attempt
+2025.05.11 00:45:19 Sent Email to a
+2025.05.11 00:45:23 User logged off
+2025.05.11 00:45:23 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 11:39:03 Connect from local (local)
+2025.05.11 11:39:03 Setting time left to 30
+2025.05.11 11:39:39 dumi logged in
+2025.05.11 11:39:39 Setting time left to 992
+2025.05.11 11:39:40 Setting menu to "main" (Default start menu)
+2025.05.11 11:40:42 User logged off
+2025.05.11 11:40:42 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 12:15:17 Connect from local (local)
+2025.05.11 12:15:17 Setting time left to 30
+2025.05.11 12:15:21 a logged in
+2025.05.11 12:15:21 Setting time left to 59
+2025.05.11 12:15:21 Setting menu to "guest" (User start menu)
+2025.05.11 12:15:37 Chat Page: Test
+2025.05.11 12:16:01 Chat Page: a
+2025.05.11 12:17:22 Error loading menu: utimebank
+2025.05.11 12:17:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 12:17:25 Connect from local (local)
+2025.05.11 12:17:25 Setting time left to 30
+2025.05.11 12:17:29 a logged in
+2025.05.11 12:17:29 Setting time left to 57
+2025.05.11 12:17:29 Setting menu to "guest" (User start menu)
+2025.05.11 12:17:32 Chat Page: a
+2025.05.11 12:17:46 Error loading menu: utimebank
+2025.05.11 12:17:46 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 12:19:45 Connect from local (local)
+2025.05.11 12:19:45 Setting time left to 30
+2025.05.11 12:19:49 a logged in
+2025.05.11 12:19:49 Setting time left to 57
+2025.05.11 12:19:49 Setting menu to "guest" (User start menu)
+2025.05.11 12:20:08 Chat Page: a
+2025.05.11 12:20:22 Error loading menu: utimebank
+2025.05.11 12:20:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 11:05:27 Connect from 36.3.159.91 (36-3-159-91.kanagawa.ap.gmo-isp.jp)
+2025.05.11 11:05:27 Country: Unknown
+2025.05.11 11:05:27 Setting time left to 30
+2025.05.11 11:06:02 Setting menu to "main" (Default start menu)
+2025.05.11 11:06:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.11 11:06:21 Connect from 213.233.104.71 (Unknown)
+2025.05.11 11:06:21 Country: Unknown
+2025.05.11 11:06:22 Setting time left to 30
+2025.05.11 11:06:26 a logged in
+2025.05.11 11:06:26 Setting time left to 55
+2025.05.11 11:06:26 Setting menu to "guest" (User start menu)
+2025.05.11 11:06:29 Executing: scripts/page_sysop.sh
+2025.05.11 11:06:49 Execution complete: 4220358
+2025.05.11 11:06:49 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.21 21:50:14 Connect from 176.65.148.10 (hosted-by.pfcloud.io)
+2025.05.21 21:50:14 Country: Unknown
+2025.05.21 21:50:14 Setting time left to 30
+2025.05.21 21:50:47 Setting menu to "main" (Default start menu)
+2025.05.21 21:50:47 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:01:22 Connect from 141.98.11.137 (srv-141-98-11-137.serveroffer.net)
+2025.05.22 13:01:22 Country: Unknown
+2025.05.22 13:01:22 Setting time left to 30
+2025.05.22 13:03:31 Setting menu to "main" (Default start menu)
+2025.05.22 13:03:31 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:33:28 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.22 13:33:28 Country: Unknown
+2025.05.22 13:33:28 Setting time left to 30
+2025.05.22 13:38:31 Inactivity timeout
+2025.05.22 13:38:31 Setting menu to "main" (Default start menu)
+2025.05.22 13:38:31 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:43:52 Connect from 96.246.230.97 (pool-96-246-230-97.nycmny.fios.verizon.net)
+2025.05.22 13:43:52 Country: Unknown
+2025.05.22 13:43:52 Setting time left to 30
+2025.05.22 13:44:07 Setting menu to "main" (Default start menu)
+2025.05.22 13:44:07 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:53:27 Connect from 188.69.251.106 (md-188-69-251-106.omni.lt)
+2025.05.22 13:53:27 Country: Unknown
+2025.05.22 13:53:27 Setting time left to 30
+2025.05.22 13:54:02 Setting menu to "main" (Default start menu)
+2025.05.22 13:54:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:55:36 Connect from 110.39.13.110 (WGPON-3913-110.wateen.net)
+2025.05.22 13:55:36 Country: Unknown
+2025.05.22 13:55:36 Setting time left to 30
+2025.05.22 13:56:11 Setting menu to "main" (Default start menu)
+2025.05.22 13:56:11 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 13:56:14 Connect from 110.39.13.110 (WGPON-3913-110.wateen.net)
+2025.05.22 13:56:14 Country: Unknown
+2025.05.22 13:56:14 Setting time left to 30
+2025.05.22 13:56:54 Setting menu to "main" (Default start menu)
+2025.05.22 13:56:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:00:03 Connect from 140.143.165.16 (Unknown)
+2025.05.22 14:00:03 Country: Unknown
+2025.05.22 14:00:03 Setting time left to 30
+2025.05.22 14:00:38 Setting menu to "main" (Default start menu)
+2025.05.22 14:00:38 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:00:40 Connect from 140.143.165.16 (Unknown)
+2025.05.22 14:00:40 Country: Unknown
+2025.05.22 14:00:40 Setting time left to 30
+2025.05.22 14:01:14 Setting menu to "main" (Default start menu)
+2025.05.22 14:01:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:03:03 Connect from 164.92.234.215 (Unknown)
+2025.05.22 14:03:03 Country: Unknown
+2025.05.22 14:03:03 Setting time left to 30
+2025.05.22 14:03:36 Setting menu to "main" (Default start menu)
+2025.05.22 14:03:36 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:14:01 Connect from 112.50.90.11 (Unknown)
+2025.05.22 14:14:01 Country: Unknown
+2025.05.22 14:14:01 Setting time left to 30
+2025.05.22 14:14:35 Setting menu to "main" (Default start menu)
+2025.05.22 14:14:35 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:14:39 Connect from 112.50.90.11 (Unknown)
+2025.05.22 14:14:39 Country: Unknown
+2025.05.22 14:14:39 Setting time left to 30
+2025.05.22 14:15:14 Setting menu to "main" (Default start menu)
+2025.05.22 14:15:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:15:20 Connect from 112.50.90.11 (Unknown)
+2025.05.22 14:15:20 Country: Unknown
+2025.05.22 14:15:20 Setting time left to 30
+2025.05.22 14:15:54 Setting menu to "main" (Default start menu)
+2025.05.22 14:15:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 14:52:58 Connect from 64.53.61.55 (dsl-1-55.d01.scpeli.pbtcomm.net)
+2025.05.22 14:52:58 Country: Unknown
+2025.05.22 14:52:58 Setting time left to 30
+2025.05.22 14:53:15 Setting menu to "main" (Default start menu)
+2025.05.22 14:53:15 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 15:44:30 Connect from 68.183.147.55 (Unknown)
+2025.05.22 15:44:30 Country: Unknown
+2025.05.22 15:44:30 Setting time left to 30
+2025.05.22 15:45:03 Setting menu to "main" (Default start menu)
+2025.05.22 15:45:03 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 16:03:33 Connect from 59.88.2.117 (Unknown)
+2025.05.22 16:03:33 Country: Unknown
+2025.05.22 16:03:33 Setting time left to 30
+2025.05.22 16:03:47 Setting menu to "main" (Default start menu)
+2025.05.22 16:03:47 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 16:03:50 Connect from 59.88.2.117 (Unknown)
+2025.05.22 16:03:50 Country: Unknown
+2025.05.22 16:03:50 Setting time left to 30
+2025.05.22 16:04:02 Setting menu to "main" (Default start menu)
+2025.05.22 16:04:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 16:53:21 Connect from 78.46.87.204 (static.204.87.46.78.clients.your-server.de)
+2025.05.22 16:53:21 Country: Unknown
+2025.05.22 16:53:21 Setting time left to 30
+2025.05.22 16:53:32 Setting menu to "main" (Default start menu)
+2025.05.22 16:53:32 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 17:02:34 Connect from 176.65.148.10 (hosted-by.pfcloud.io)
+2025.05.22 17:02:34 Country: Unknown
+2025.05.22 17:02:34 Setting time left to 30
+2025.05.22 17:03:07 Setting menu to "main" (Default start menu)
+2025.05.22 17:03:07 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 17:33:08 Connect from 198.235.24.49 (Unknown)
+2025.05.22 17:33:08 Country: Unknown
+2025.05.22 17:33:08 Setting time left to 30
+2025.05.22 17:33:37 Setting menu to "main" (Default start menu)
+2025.05.22 17:33:37 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 18:20:59 Connect from 106.46.104.33 (Unknown)
+2025.05.22 18:20:59 Country: Unknown
+2025.05.22 18:20:59 Setting time left to 30
+2025.05.22 18:21:14 Setting menu to "main" (Default start menu)
+2025.05.22 18:21:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 18:37:07 Connect from 114.205.36.165 (Unknown)
+2025.05.22 18:37:07 Country: Unknown
+2025.05.22 18:37:07 Setting time left to 30
+2025.05.22 18:37:21 Setting menu to "main" (Default start menu)
+2025.05.22 18:37:21 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:17:41 Connect from 203.57.40.84 (Unknown)
+2025.05.22 19:17:41 Country: Unknown
+2025.05.22 19:17:41 Setting time left to 30
+2025.05.22 19:17:45 New user application
+2025.05.22 19:18:16 Setting menu to "main" (Default start menu)
+2025.05.22 19:18:16 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:18:49 Connect from 218.161.116.70 (218-161-116-70.hinet-ip.hinet.net)
+2025.05.22 19:18:49 Country: Unknown
+2025.05.22 19:18:49 Setting time left to 30
+2025.05.22 19:19:23 Setting menu to "main" (Default start menu)
+2025.05.22 19:19:23 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:19:26 Connect from 218.161.116.70 (218-161-116-70.hinet-ip.hinet.net)
+2025.05.22 19:19:26 Country: Unknown
+2025.05.22 19:19:26 Setting time left to 30
+2025.05.22 19:20:01 Setting menu to "main" (Default start menu)
+2025.05.22 19:20:01 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:51:19 Connect from 123.8.62.5 (hn.kd.ny.adsl)
+2025.05.22 19:51:19 Country: Unknown
+2025.05.22 19:51:19 Setting time left to 30
+2025.05.22 19:51:31 Setting menu to "main" (Default start menu)
+2025.05.22 19:51:31 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:51:34 Connect from 123.8.62.5 (hn.kd.ny.adsl)
+2025.05.22 19:51:34 Country: Unknown
+2025.05.22 19:51:34 Setting time left to 30
+2025.05.22 19:51:46 Setting menu to "main" (Default start menu)
+2025.05.22 19:51:46 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 19:51:49 Connect from 123.8.62.5 (hn.kd.ny.adsl)
+2025.05.22 19:51:49 Country: Unknown
+2025.05.22 19:51:49 Setting time left to 30
+2025.05.22 19:52:02 Setting menu to "main" (Default start menu)
+2025.05.22 19:52:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:27:11 Connect from 175.107.3.21 (Unknown)
+2025.05.22 20:27:11 Country: Unknown
+2025.05.22 20:27:11 Setting time left to 30
+2025.05.22 20:27:24 Setting menu to "main" (Default start menu)
+2025.05.22 20:27:24 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:35:27 Connect from 186.153.224.127 (host127.186-153-224.telecom.net.ar)
+2025.05.22 20:35:27 Country: Unknown
+2025.05.22 20:35:27 Setting time left to 30
+2025.05.22 20:36:07 Setting menu to "main" (Default start menu)
+2025.05.22 20:36:07 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:36:12 Connect from 186.153.224.127 (host127.186-153-224.telecom.net.ar)
+2025.05.22 20:36:12 Country: Unknown
+2025.05.22 20:36:12 Setting time left to 30
+2025.05.22 20:36:18 New user application
+2025.05.22 20:36:51 Setting menu to "main" (Default start menu)
+2025.05.22 20:36:51 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:36:58 Connect from 186.153.224.127 (host127.186-153-224.telecom.net.ar)
+2025.05.22 20:36:58 Country: Unknown
+2025.05.22 20:36:58 Setting time left to 30
+2025.05.22 20:37:33 Setting menu to "main" (Default start menu)
+2025.05.22 20:37:33 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:37:38 Connect from 186.153.224.127 (host127.186-153-224.telecom.net.ar)
+2025.05.22 20:37:38 Country: Unknown
+2025.05.22 20:37:38 Setting time left to 30
+2025.05.22 20:37:44 New user application
+2025.05.22 20:38:17 Setting menu to "main" (Default start menu)
+2025.05.22 20:38:17 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 20:38:23 Connect from 186.153.224.127 (host127.186-153-224.telecom.net.ar)
+2025.05.22 20:38:23 Country: Unknown
+2025.05.22 20:38:23 Setting time left to 30
+2025.05.22 20:38:29 New user application
+2025.05.22 20:39:02 Setting menu to "main" (Default start menu)
+2025.05.22 20:39:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 21:42:09 Connect from 89.217.53.239 (adsl-89-217-53-239.adslplus.ch)
+2025.05.22 21:42:09 Country: Unknown
+2025.05.22 21:42:09 Setting time left to 30
+2025.05.22 21:42:24 Setting menu to "main" (Default start menu)
+2025.05.22 21:42:24 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.22 23:40:37 Connect from 190.171.86.139 (ip-190.171.86.139.myconnectpe.psi.br)
+2025.05.22 23:40:37 Country: Unknown
+2025.05.22 23:40:37 Setting time left to 30
+2025.05.22 23:40:52 Setting menu to "main" (Default start menu)
+2025.05.22 23:40:52 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 00:18:18 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 00:18:18 Country: Unknown
+2025.05.23 00:18:18 Setting time left to 30
+2025.05.23 00:23:22 Inactivity timeout
+2025.05.23 00:23:22 Setting menu to "main" (Default start menu)
+2025.05.23 00:23:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 00:23:51 Connect from 123.243.96.82 (123-243-96-82.tpgi.com.au)
+2025.05.23 00:23:51 Country: Unknown
+2025.05.23 00:23:51 Setting time left to 30
+2025.05.23 00:24:25 Setting menu to "main" (Default start menu)
+2025.05.23 00:24:25 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 00:24:30 Connect from 123.243.96.82 (123-243-96-82.tpgi.com.au)
+2025.05.23 00:24:30 Country: Unknown
+2025.05.23 00:24:30 Setting time left to 30
+2025.05.23 00:25:04 Setting menu to "main" (Default start menu)
+2025.05.23 00:25:04 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 00:59:32 Connect from 181.221.114.184 (b5dd72b8.virtua.com.br)
+2025.05.23 00:59:32 Country: Unknown
+2025.05.23 00:59:32 Setting time left to 30
+2025.05.23 00:59:46 Setting menu to "main" (Default start menu)
+2025.05.23 00:59:46 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 01:50:29 Connect from 141.98.11.137 (srv-141-98-11-137.serveroffer.net)
+2025.05.23 01:50:29 Country: Unknown
+2025.05.23 01:50:29 Setting time left to 30
+2025.05.23 01:52:34 Setting menu to "main" (Default start menu)
+2025.05.23 01:52:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 01:55:10 Connect from 164.90.204.13 (Unknown)
+2025.05.23 01:55:10 Country: Unknown
+2025.05.23 01:55:10 Setting time left to 30
+2025.05.23 01:55:43 Setting menu to "main" (Default start menu)
+2025.05.23 01:55:43 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 01:58:43 Connect from 61.166.249.115 (Unknown)
+2025.05.23 01:58:43 Country: Unknown
+2025.05.23 01:58:43 Setting time left to 30
+2025.05.23 01:59:47 Setting menu to "main" (Default start menu)
+2025.05.23 01:59:47 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 02:16:48 Connect from 132.255.230.102 (132-255-230-102.gigabytenetwork.com.br)
+2025.05.23 02:16:48 Country: Unknown
+2025.05.23 02:16:48 Setting time left to 30
+2025.05.23 02:17:22 Setting menu to "main" (Default start menu)
+2025.05.23 02:17:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 02:17:24 Connect from 132.255.230.102 (132-255-230-102.gigabytenetwork.com.br)
+2025.05.23 02:17:24 Country: Unknown
+2025.05.23 02:17:24 Setting time left to 30
+2025.05.23 02:17:58 Setting menu to "main" (Default start menu)
+2025.05.23 02:17:58 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 02:18:00 Connect from 132.255.230.102 (132-255-230-102.gigabytenetwork.com.br)
+2025.05.23 02:18:00 Country: Unknown
+2025.05.23 02:18:00 Setting time left to 30
+2025.05.23 02:18:34 Setting menu to "main" (Default start menu)
+2025.05.23 02:18:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 02:24:50 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 02:24:50 Country: Unknown
+2025.05.23 02:24:50 Setting time left to 30
+2025.05.23 02:29:54 Inactivity timeout
+2025.05.23 02:29:54 Setting menu to "main" (Default start menu)
+2025.05.23 02:29:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 02:37:01 Connect from 164.92.234.215 (Unknown)
+2025.05.23 02:37:01 Country: Unknown
+2025.05.23 02:37:01 Setting time left to 30
+2025.05.23 02:37:34 Setting menu to "main" (Default start menu)
+2025.05.23 02:37:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 03:28:48 Connect from 42.224.176.132 (hn.kd.ny.adsl)
+2025.05.23 03:28:48 Country: Unknown
+2025.05.23 03:28:48 Setting time left to 30
+2025.05.23 03:29:01 Setting menu to "main" (Default start menu)
+2025.05.23 03:29:01 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 03:29:04 Connect from 42.224.176.132 (hn.kd.ny.adsl)
+2025.05.23 03:29:04 Country: Unknown
+2025.05.23 03:29:04 Setting time left to 30
+2025.05.23 03:29:16 Setting menu to "main" (Default start menu)
+2025.05.23 03:29:16 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 03:29:19 Connect from 42.224.176.132 (hn.kd.ny.adsl)
+2025.05.23 03:29:19 Country: Unknown
+2025.05.23 03:29:19 Setting time left to 30
+2025.05.23 03:29:32 Setting menu to "main" (Default start menu)
+2025.05.23 03:29:32 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 03:53:24 Connect from 5.26.170.64 (Unknown)
+2025.05.23 03:53:24 Country: Unknown
+2025.05.23 03:53:24 Setting time left to 30
+2025.05.23 03:53:30 Setting menu to "main" (Default start menu)
+2025.05.23 03:53:30 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 03:53:42 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 03:53:42 Country: Unknown
+2025.05.23 03:53:42 Setting time left to 30
+2025.05.23 03:58:46 Inactivity timeout
+2025.05.23 03:58:46 Setting menu to "main" (Default start menu)
+2025.05.23 03:58:46 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 05:10:27 Connect from 162.142.125.197 (Unknown)
+2025.05.23 05:10:27 Country: Unknown
+2025.05.23 05:10:27 Setting time left to 30
+2025.05.23 05:10:32 Setting menu to "main" (Default start menu)
+2025.05.23 05:10:32 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 05:19:26 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 05:19:26 Country: Unknown
+2025.05.23 05:19:26 Setting time left to 30
+2025.05.23 05:24:30 Inactivity timeout
+2025.05.23 05:24:30 Setting menu to "main" (Default start menu)
+2025.05.23 05:24:30 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:08:02 Connect from 206.168.34.194 (Unknown)
+2025.05.23 06:08:02 Country: Unknown
+2025.05.23 06:08:02 Setting time left to 30
+2025.05.23 06:08:05 Setting menu to "main" (Default start menu)
+2025.05.23 06:08:05 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:15:18 Connect from 86.54.31.42 (green.census.shodan.io)
+2025.05.23 06:15:18 Country: Unknown
+2025.05.23 06:15:18 Setting time left to 30
+2025.05.23 06:15:29 Setting menu to "main" (Default start menu)
+2025.05.23 06:15:29 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:17:47 Connect from 176.65.148.243 (hosted-by.pfcloud.io)
+2025.05.23 06:17:47 Country: Unknown
+2025.05.23 06:17:47 Setting time left to 30
+2025.05.23 06:18:20 Setting menu to "main" (Default start menu)
+2025.05.23 06:18:20 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:32:42 Connect from 110.24.36.179 (110-24-36-179.adsl.fetnet.net)
+2025.05.23 06:32:42 Country: Unknown
+2025.05.23 06:32:42 Setting time left to 30
+2025.05.23 06:32:57 Setting menu to "main" (Default start menu)
+2025.05.23 06:32:57 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:37:33 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 06:37:33 Country: Unknown
+2025.05.23 06:37:33 Setting time left to 30
+2025.05.23 06:42:37 Inactivity timeout
+2025.05.23 06:42:37 Setting menu to "main" (Default start menu)
+2025.05.23 06:42:37 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:53:08 Connect from 205.210.31.198 (Unknown)
+2025.05.23 06:53:08 Country: Unknown
+2025.05.23 06:53:08 Setting time left to 30
+2025.05.23 06:53:16 Setting menu to "main" (Default start menu)
+2025.05.23 06:53:16 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 06:59:07 Connect from 185.196.220.81 (Unknown)
+2025.05.23 06:59:07 Country: Unknown
+2025.05.23 06:59:07 Setting time left to 30
+2025.05.23 07:01:26 Setting menu to "main" (Default start menu)
+2025.05.23 07:01:26 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:06:00 Connect from 61.1.219.166 (Unknown)
+2025.05.23 07:06:00 Country: Unknown
+2025.05.23 07:06:00 Setting time left to 30
+2025.05.23 07:06:13 Setting menu to "main" (Default start menu)
+2025.05.23 07:06:13 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:06:24 Connect from 61.1.219.166 (Unknown)
+2025.05.23 07:06:24 Country: Unknown
+2025.05.23 07:06:24 Setting time left to 30
+2025.05.23 07:06:37 Setting menu to "main" (Default start menu)
+2025.05.23 07:06:37 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:07:27 Connect from 59.184.247.214 (triband-mum-59.184.247.214.mtnl.net.in)
+2025.05.23 07:07:27 Country: Unknown
+2025.05.23 07:07:27 Setting time left to 30
+2025.05.23 07:07:40 Setting menu to "main" (Default start menu)
+2025.05.23 07:07:40 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:07:45 Connect from 59.184.247.214 (triband-mum-59.184.247.214.mtnl.net.in)
+2025.05.23 07:07:45 Country: Unknown
+2025.05.23 07:07:45 Setting time left to 30
+2025.05.23 07:07:59 Setting menu to "main" (Default start menu)
+2025.05.23 07:07:59 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:08:01 Connect from 59.184.247.214 (triband-mum-59.184.247.214.mtnl.net.in)
+2025.05.23 07:08:01 Country: Unknown
+2025.05.23 07:08:01 Setting time left to 30
+2025.05.23 07:08:15 Setting menu to "main" (Default start menu)
+2025.05.23 07:08:15 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:20:32 Connect from 176.65.148.236 (hosted-by.pfcloud.io)
+2025.05.23 07:20:32 Country: Unknown
+2025.05.23 07:20:32 Setting time left to 30
+2025.05.23 07:21:05 Setting menu to "main" (Default start menu)
+2025.05.23 07:21:05 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:21:17 Connect from 115.49.1.146 (hn.kd.ny.adsl)
+2025.05.23 07:21:17 Country: Unknown
+2025.05.23 07:21:17 Setting time left to 30
+2025.05.23 07:21:31 Setting menu to "main" (Default start menu)
+2025.05.23 07:21:31 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:23:11 Connect from 185.196.220.81 (Unknown)
+2025.05.23 07:23:11 Country: Unknown
+2025.05.23 07:23:11 Setting time left to 30
+2025.05.23 07:28:15 Inactivity timeout
+2025.05.23 07:28:15 Setting menu to "main" (Default start menu)
+2025.05.23 07:28:15 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:32:48 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:32:48 Country: Unknown
+2025.05.23 07:32:48 Setting time left to 30
+2025.05.23 07:32:54 dumi logged in
+2025.05.23 07:32:54 Setting time left to 996
+2025.05.23 07:32:55 Setting menu to "main" (Default start menu)
+2025.05.23 07:33:56 User logged off
+2025.05.23 07:33:56 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:36:29 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:36:29 Country: Unknown
+2025.05.23 07:36:29 Setting time left to 30
+2025.05.23 07:36:33 Bad password attempt
+2025.05.23 07:36:39 dumi logged in
+2025.05.23 07:36:39 Setting time left to 995
+2025.05.23 07:36:40 Setting menu to "main" (Default start menu)
+2025.05.23 07:38:31 MPL execute: /mystic/themes/default/scripts/bulletin.mpx
+2025.05.23 07:38:37 User logged off
+2025.05.23 07:38:37 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:38:39 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:38:39 Country: Unknown
+2025.05.23 07:38:39 Setting time left to 30
+2025.05.23 07:38:44 joe logged in
+2025.05.23 07:38:44 First login today, setting time to 60
+2025.05.23 07:38:44 Setting time left to 60
+2025.05.23 07:38:44 Setting menu to "main" (Default start menu)
+2025.05.23 07:38:46 MPL execute: /mystic/themes/default/scripts/bulletin.mpx
+2025.05.23 07:38:52 User logged off
+2025.05.23 07:38:52 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:38:55 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:38:55 Country: Unknown
+2025.05.23 07:38:55 Setting time left to 30
+2025.05.23 07:39:01 dumi logged in
+2025.05.23 07:39:01 Setting time left to 993
+2025.05.23 07:39:02 Setting menu to "main" (Default start menu)
+2025.05.23 07:39:04 User logged off
+2025.05.23 07:39:04 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:39:06 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:39:06 Country: Unknown
+2025.05.23 07:39:06 Setting time left to 30
+2025.05.23 07:39:11 dumi logged in
+2025.05.23 07:39:11 Setting time left to 993
+2025.05.23 07:39:12 Setting menu to "main" (Default start menu)
+2025.05.23 07:40:08 MPL execute: /mystic/themes/default/scripts/bulletin.mpx
+2025.05.23 07:40:12 User logged off
+2025.05.23 07:40:12 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 07:54:30 Connect from 93.116.248.55 (host-static-93-116-248-55.moldtelecom.md)
+2025.05.23 07:54:30 Country: Unknown
+2025.05.23 07:54:30 Setting time left to 30
+2025.05.23 07:54:33 Setting menu to "main" (Default start menu)
+2025.05.23 07:54:33 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 10:56:03 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.23 10:56:03 Country: Unknown
+2025.05.23 10:56:03 Setting time left to 30
+2025.05.23 11:01:06 Inactivity timeout
+2025.05.23 11:01:06 Setting menu to "main" (Default start menu)
+2025.05.23 11:01:06 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 12:22:38 Connect from 144.48.241.166 (Unknown)
+2025.05.23 12:22:38 Country: Unknown
+2025.05.23 12:22:38 Setting time left to 30
+2025.05.23 12:23:44 Setting menu to "main" (Default start menu)
+2025.05.23 12:23:44 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 12:55:26 Connect from 111.35.32.8 (Unknown)
+2025.05.23 12:55:26 Country: Unknown
+2025.05.23 12:55:26 Setting time left to 30
+2025.05.23 12:56:00 Setting menu to "main" (Default start menu)
+2025.05.23 12:56:00 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 22:07:45 Connect from 153.101.175.18 (Unknown)
+2025.05.23 22:07:45 Country: Unknown
+2025.05.23 22:07:45 Setting time left to 30
+2025.05.23 22:07:58 Setting menu to "main" (Default start menu)
+2025.05.23 22:07:58 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 22:08:01 Connect from 153.101.175.18 (Unknown)
+2025.05.23 22:08:01 Country: Unknown
+2025.05.23 22:08:01 Setting time left to 30
+2025.05.23 22:08:14 Setting menu to "main" (Default start menu)
+2025.05.23 22:08:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.23 22:08:16 Connect from 153.101.175.18 (Unknown)
+2025.05.23 22:08:16 Country: Unknown
+2025.05.23 22:08:16 Setting time left to 30
+2025.05.23 22:08:29 Setting menu to "main" (Default start menu)
+2025.05.23 22:08:29 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 05:42:04 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.24 05:42:04 Country: Unknown
+2025.05.24 05:42:04 Setting time left to 30
+2025.05.24 05:47:07 Inactivity timeout
+2025.05.24 05:47:07 Setting menu to "main" (Default start menu)
+2025.05.24 05:47:07 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 11:37:32 Connect from 117.216.218.66 (Unknown)
+2025.05.24 11:37:32 Country: Unknown
+2025.05.24 11:37:32 Setting time left to 30
+2025.05.24 11:43:25 Setting menu to "main" (Default start menu)
+2025.05.24 11:43:25 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 15:29:22 Connect from 31.215.12.15 (Unknown)
+2025.05.24 15:29:22 Country: Unknown
+2025.05.24 15:29:22 Setting time left to 30
+2025.05.24 15:29:57 Setting menu to "main" (Default start menu)
+2025.05.24 15:29:57 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 19:45:20 Connect from 117.48.157.75 (Unknown)
+2025.05.24 19:45:20 Country: Unknown
+2025.05.24 19:45:20 Setting time left to 30
+2025.05.24 19:46:23 Setting menu to "main" (Default start menu)
+2025.05.24 19:46:23 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 21:42:52 Connect from 186.216.58.25 (Unknown)
+2025.05.24 21:42:52 Country: Unknown
+2025.05.24 21:42:52 Setting time left to 30
+2025.05.24 21:42:57 New user application
+2025.05.24 21:43:28 Setting menu to "main" (Default start menu)
+2025.05.24 21:43:28 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 21:44:19 Connect from 14.195.53.94 (static-94.53.195.14-tataidc.co.in)
+2025.05.24 21:44:19 Country: Unknown
+2025.05.24 21:44:19 Setting time left to 30
+2025.05.24 21:44:54 Setting menu to "main" (Default start menu)
+2025.05.24 21:44:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 21:45:00 Connect from 186.216.58.25 (Unknown)
+2025.05.24 21:45:00 Country: Unknown
+2025.05.24 21:45:00 Setting time left to 30
+2025.05.24 21:45:34 Setting menu to "main" (Default start menu)
+2025.05.24 21:45:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 23:12:43 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.24 23:12:43 Country: Unknown
+2025.05.24 23:12:43 Setting time left to 30
+2025.05.24 23:17:47 Inactivity timeout
+2025.05.24 23:17:47 Setting menu to "main" (Default start menu)
+2025.05.24 23:17:47 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.24 23:52:25 Connect from 197.155.64.126 (197.155.64.126.liquidtelecom.net)
+2025.05.24 23:52:25 Country: Unknown
+2025.05.24 23:52:25 Setting time left to 30
+2025.05.24 23:52:44 Setting menu to "main" (Default start menu)
+2025.05.24 23:52:44 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 03:08:21 Connect from 123.165.84.45 (Unknown)
+2025.05.25 03:08:21 Country: Unknown
+2025.05.25 03:08:21 Setting time left to 30
+2025.05.25 03:08:36 Setting menu to "main" (Default start menu)
+2025.05.25 03:08:36 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 05:20:54 Connect from 172.104.93.159 (li1703-159.members.linode.com)
+2025.05.25 05:20:54 Country: Unknown
+2025.05.25 05:20:54 Setting time left to 30
+2025.05.25 05:21:48 Setting menu to "main" (Default start menu)
+2025.05.25 05:21:48 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 05:27:13 Connect from 117.205.82.188 (Unknown)
+2025.05.25 05:27:13 Country: Unknown
+2025.05.25 05:27:13 Setting time left to 30
+2025.05.25 05:27:26 Setting menu to "main" (Default start menu)
+2025.05.25 05:27:26 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 05:27:28 Connect from 117.205.82.188 (Unknown)
+2025.05.25 05:27:28 Country: Unknown
+2025.05.25 05:27:28 Setting time left to 30
+2025.05.25 05:27:41 Setting menu to "main" (Default start menu)
+2025.05.25 05:27:41 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 05:43:14 Connect from 176.65.148.236 (hosted-by.pfcloud.io)
+2025.05.25 05:43:14 Country: Unknown
+2025.05.25 05:43:14 Setting time left to 30
+2025.05.25 05:43:47 Setting menu to "main" (Default start menu)
+2025.05.25 05:43:47 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 06:10:00 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.25 06:10:00 Country: Unknown
+2025.05.25 06:10:00 Setting time left to 30
+2025.05.25 06:13:02 Setting menu to "main" (Default start menu)
+2025.05.25 06:13:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:41:33 Connect from 117.245.157.6 (Unknown)
+2025.05.25 07:41:33 Country: Unknown
+2025.05.25 07:41:33 Setting time left to 30
+2025.05.25 07:42:15 Setting menu to "main" (Default start menu)
+2025.05.25 07:42:15 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:42:23 Connect from 112.46.213.203 (Unknown)
+2025.05.25 07:42:23 Country: Unknown
+2025.05.25 07:42:23 Setting time left to 30
+2025.05.25 07:42:39 Setting menu to "main" (Default start menu)
+2025.05.25 07:42:39 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:42:43 Connect from 112.46.214.117 (Unknown)
+2025.05.25 07:42:43 Country: Unknown
+2025.05.25 07:42:43 Setting time left to 30
+2025.05.25 07:43:02 Setting menu to "main" (Default start menu)
+2025.05.25 07:43:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:43:04 Connect from 112.46.213.203 (Unknown)
+2025.05.25 07:43:04 Country: Unknown
+2025.05.25 07:43:04 Setting time left to 30
+2025.05.25 07:43:26 Setting menu to "main" (Default start menu)
+2025.05.25 07:43:26 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:43:33 Connect from 112.46.212.203 (Unknown)
+2025.05.25 07:43:33 Country: Unknown
+2025.05.25 07:43:33 Setting time left to 30
+2025.05.25 07:43:52 Setting menu to "main" (Default start menu)
+2025.05.25 07:43:52 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:43:55 Connect from 112.46.214.117 (Unknown)
+2025.05.25 07:43:55 Country: Unknown
+2025.05.25 07:43:55 Setting time left to 30
+2025.05.25 07:44:14 Setting menu to "main" (Default start menu)
+2025.05.25 07:44:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:44:21 Connect from 112.46.213.203 (Unknown)
+2025.05.25 07:44:21 Country: Unknown
+2025.05.25 07:44:21 Setting time left to 30
+2025.05.25 07:44:40 Setting menu to "main" (Default start menu)
+2025.05.25 07:44:40 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:44:44 Connect from 112.46.214.117 (Unknown)
+2025.05.25 07:44:44 Country: Unknown
+2025.05.25 07:44:44 Setting time left to 30
+2025.05.25 07:45:03 Setting menu to "main" (Default start menu)
+2025.05.25 07:45:03 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:45:11 Connect from 112.46.212.203 (Unknown)
+2025.05.25 07:45:11 Country: Unknown
+2025.05.25 07:45:11 Setting time left to 30
+2025.05.25 07:45:30 Setting menu to "main" (Default start menu)
+2025.05.25 07:45:30 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:45:32 Connect from 112.46.212.203 (Unknown)
+2025.05.25 07:45:32 Country: Unknown
+2025.05.25 07:45:32 Setting time left to 30
+2025.05.25 07:45:54 Setting menu to "main" (Default start menu)
+2025.05.25 07:45:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:45:57 Connect from 112.46.213.203 (Unknown)
+2025.05.25 07:45:57 Country: Unknown
+2025.05.25 07:45:57 Setting time left to 30
+2025.05.25 07:46:16 Setting menu to "main" (Default start menu)
+2025.05.25 07:46:16 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:47:24 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.25 07:47:24 Country: Unknown
+2025.05.25 07:47:24 Setting time left to 30
+2025.05.25 07:48:34 Setting menu to "main" (Default start menu)
+2025.05.25 07:48:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 07:54:45 Connect from 58.56.246.70 (Unknown)
+2025.05.25 07:54:45 Country: Unknown
+2025.05.25 07:54:45 Setting time left to 30
+2025.05.25 07:55:00 Setting menu to "main" (Default start menu)
+2025.05.25 07:55:00 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:16:39 Connect from 64.226.87.192 (Unknown)
+2025.05.25 08:16:39 Country: Unknown
+2025.05.25 08:16:39 Setting time left to 30
+2025.05.25 08:17:06 Setting menu to "main" (Default start menu)
+2025.05.25 08:17:06 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:18:47 Connect from 41.59.40.144 (Unknown)
+2025.05.25 08:18:47 Country: Unknown
+2025.05.25 08:18:47 Setting time left to 30
+2025.05.25 08:18:50 New user application
+2025.05.25 08:19:22 Setting menu to "main" (Default start menu)
+2025.05.25 08:19:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:19:25 Connect from 41.59.40.144 (Unknown)
+2025.05.25 08:19:25 Country: Unknown
+2025.05.25 08:19:25 Setting time left to 30
+2025.05.25 08:19:59 Setting menu to "main" (Default start menu)
+2025.05.25 08:19:59 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:25:07 Connect from 176.65.148.243 (hosted-by.pfcloud.io)
+2025.05.25 08:25:07 Country: Unknown
+2025.05.25 08:25:07 Setting time left to 30
+2025.05.25 08:25:40 Setting menu to "main" (Default start menu)
+2025.05.25 08:25:40 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:30:08 Connect from 41.59.133.114 (Unknown)
+2025.05.25 08:30:08 Country: Unknown
+2025.05.25 08:30:08 Setting time left to 30
+2025.05.25 08:30:42 Setting menu to "main" (Default start menu)
+2025.05.25 08:30:42 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:30:45 Connect from 41.59.133.114 (Unknown)
+2025.05.25 08:30:45 Country: Unknown
+2025.05.25 08:30:45 Setting time left to 30
+2025.05.25 08:31:19 Setting menu to "main" (Default start menu)
+2025.05.25 08:31:19 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:32:30 Connect from 41.59.32.224 (Unknown)
+2025.05.25 08:32:30 Country: Unknown
+2025.05.25 08:32:30 Setting time left to 30
+2025.05.25 08:33:05 Setting menu to "main" (Default start menu)
+2025.05.25 08:33:05 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 08:33:08 Connect from 41.59.32.224 (Unknown)
+2025.05.25 08:33:08 Country: Unknown
+2025.05.25 08:33:08 Setting time left to 30
+2025.05.25 08:33:11 New user application
+2025.05.25 08:33:44 Setting menu to "main" (Default start menu)
+2025.05.25 08:33:44 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 10:36:48 Connect from 201.204.200.34 (mail.budget.co.cr)
+2025.05.25 10:36:48 Country: Unknown
+2025.05.25 10:36:48 Setting time left to 30
+2025.05.25 10:37:22 Setting menu to "main" (Default start menu)
+2025.05.25 10:37:22 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 10:37:25 Connect from 181.193.64.174 (Unknown)
+2025.05.25 10:37:25 Country: Unknown
+2025.05.25 10:37:25 Setting time left to 30
+2025.05.25 10:38:00 Setting menu to "main" (Default start menu)
+2025.05.25 10:38:00 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 10:54:05 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.25 10:54:05 Country: Unknown
+2025.05.25 10:54:05 Setting time left to 30
+2025.05.25 10:59:09 Inactivity timeout
+2025.05.25 10:59:09 Setting menu to "main" (Default start menu)
+2025.05.25 10:59:09 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 11:55:38 Connect from 176.65.148.193 (hosted-by.pfcloud.io)
+2025.05.25 11:55:38 Country: Unknown
+2025.05.25 11:55:38 Setting time left to 30
+2025.05.25 12:00:41 Inactivity timeout
+2025.05.25 12:00:41 Setting menu to "main" (Default start menu)
+2025.05.25 12:00:41 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 13:13:08 Connect from 213.233.85.159 (Unknown)
+2025.05.25 13:13:08 Country: Unknown
+2025.05.25 13:13:08 Setting time left to 30
+2025.05.25 13:13:16 dumi logged in
+2025.05.25 13:13:17 First login today, setting time to 999
+2025.05.25 13:13:17 Setting time left to 999
+2025.05.25 13:13:17 Setting menu to "main" (Default start menu)
+2025.05.25 13:13:20 MPL execute: /mystic/themes/default/scripts/bulletin.mpx
+2025.05.25 13:15:12 User logged off
+2025.05.25 13:15:12 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 13:39:18 Connect from 117.133.133.98 (Unknown)
+2025.05.25 13:39:18 Country: Unknown
+2025.05.25 13:39:18 Setting time left to 30
+2025.05.25 13:39:34 Setting menu to "main" (Default start menu)
+2025.05.25 13:39:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 13:50:46 Connect from 181.193.88.106 (Unknown)
+2025.05.25 13:50:46 Country: Unknown
+2025.05.25 13:50:46 Setting time left to 30
+2025.05.25 13:50:46 Asking for system password
+2025.05.25 13:50:47 Bad password attempt
+2025.05.25 13:50:47 Bad password attempt
+2025.05.25 13:50:48 Bad password attempt
+2025.05.25 13:50:48 Failed system password
+2025.05.25 13:50:48 Setting menu to "main" (Default start menu)
+2025.05.25 13:50:48 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 13:50:51 Connect from 181.193.88.106 (Unknown)
+2025.05.25 13:50:51 Country: Unknown
+2025.05.25 13:50:51 Setting time left to 30
+2025.05.25 13:50:51 Asking for system password
+2025.05.25 13:50:51 Bad password attempt
+2025.05.25 13:50:52 Bad password attempt
+2025.05.25 13:50:52 Bad password attempt
+2025.05.25 13:50:52 Failed system password
+2025.05.25 13:50:52 Setting menu to "main" (Default start menu)
+2025.05.25 13:50:52 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 13:50:55 Connect from 181.193.88.106 (Unknown)
+2025.05.25 13:50:55 Country: Unknown
+2025.05.25 13:50:55 Setting time left to 30
+2025.05.25 13:50:55 Asking for system password
+2025.05.25 13:50:56 Bad password attempt
+2025.05.25 13:50:56 Bad password attempt
+2025.05.25 13:50:56 Bad password attempt
+2025.05.25 13:50:56 Failed system password
+2025.05.25 13:50:56 Setting menu to "main" (Default start menu)
+2025.05.25 13:50:56 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 15:09:24 Connect from 111.176.138.90 (Unknown)
+2025.05.25 15:09:24 Country: Unknown
+2025.05.25 15:09:24 Setting time left to 30
+2025.05.25 15:09:24 Asking for system password
+2025.05.25 15:09:25 Bad password attempt
+2025.05.25 15:09:26 Bad password attempt
+2025.05.25 15:09:28 Bad password attempt
+2025.05.25 15:09:28 Failed system password
+2025.05.25 15:09:28 Setting menu to "main" (Default start menu)
+2025.05.25 15:09:28 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 15:36:08 Connect from 220.135.37.245 (220-135-37-245.hinet-ip.hinet.net)
+2025.05.25 15:36:08 Country: Unknown
+2025.05.25 15:36:08 Setting time left to 30
+2025.05.25 15:36:08 Asking for system password
+2025.05.25 15:36:08 Bad password attempt
+2025.05.25 15:36:09 Bad password attempt
+2025.05.25 15:36:09 Bad password attempt
+2025.05.25 15:36:09 Failed system password
+2025.05.25 15:36:09 Setting menu to "main" (Default start menu)
+2025.05.25 15:36:09 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 15:36:12 Connect from 220.135.37.245 (220-135-37-245.hinet-ip.hinet.net)
+2025.05.25 15:36:12 Country: Unknown
+2025.05.25 15:36:12 Setting time left to 30
+2025.05.25 15:36:12 Asking for system password
+2025.05.25 15:36:12 Bad password attempt
+2025.05.25 15:36:13 Bad password attempt
+2025.05.25 15:36:13 Bad password attempt
+2025.05.25 15:36:13 Failed system password
+2025.05.25 15:36:13 Setting menu to "main" (Default start menu)
+2025.05.25 15:36:13 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 15:36:16 Connect from 220.135.37.245 (220-135-37-245.hinet-ip.hinet.net)
+2025.05.25 15:36:16 Country: Unknown
+2025.05.25 15:36:16 Setting time left to 30
+2025.05.25 15:36:16 Asking for system password
+2025.05.25 15:36:16 Bad password attempt
+2025.05.25 15:36:17 Bad password attempt
+2025.05.25 15:36:17 Bad password attempt
+2025.05.25 15:36:17 Failed system password
+2025.05.25 15:36:17 Setting menu to "main" (Default start menu)
+2025.05.25 15:36:17 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 16:27:03 Connect from 31.129.14.178 (178.14.129.31.sub.tsl.ru)
+2025.05.25 16:27:03 Country: Unknown
+2025.05.25 16:27:03 Setting time left to 30
+2025.05.25 16:27:03 Asking for system password
+2025.05.25 16:27:04 Bad password attempt
+2025.05.25 16:27:05 Bad password attempt
+2025.05.25 16:27:06 Failed system password
+2025.05.25 16:27:06 Setting menu to "main" (Default start menu)
+2025.05.25 16:27:06 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 17:24:07 Connect from 111.3.27.241 (Unknown)
+2025.05.25 17:24:07 Country: Unknown
+2025.05.25 17:24:07 Setting time left to 30
+2025.05.25 17:24:07 Asking for system password
+2025.05.25 17:24:08 Bad password attempt
+2025.05.25 17:24:10 Bad password attempt
+2025.05.25 17:24:11 Bad password attempt
+2025.05.25 17:24:11 Failed system password
+2025.05.25 17:24:11 Setting menu to "main" (Default start menu)
+2025.05.25 17:24:11 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 17:43:51 Connect from 184.147.197.95 (bras-base-otwaon1102w-grc-20-184-147-197-95.dsl.bell.ca)
+2025.05.25 17:43:51 Country: Unknown
+2025.05.25 17:43:51 Setting time left to 30
+2025.05.25 17:43:51 Asking for system password
+2025.05.25 17:43:51 Bad password attempt
+2025.05.25 17:43:52 Bad password attempt
+2025.05.25 17:43:53 Bad password attempt
+2025.05.25 17:43:53 Failed system password
+2025.05.25 17:43:53 Setting menu to "main" (Default start menu)
+2025.05.25 17:43:53 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 18:49:32 Connect from 185.196.220.81 (Unknown)
+2025.05.25 18:49:32 Country: Unknown
+2025.05.25 18:49:32 Setting time left to 30
+2025.05.25 18:49:32 Asking for system password
+2025.05.25 18:49:33 Bad password attempt
+2025.05.25 18:49:34 Bad password attempt
+2025.05.25 18:54:34 Inactivity timeout
+2025.05.25 18:54:34 Failed system password
+2025.05.25 18:54:34 Setting menu to "main" (Default start menu)
+2025.05.25 18:54:34 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 20:30:14 Connect from 190.4.23.186 (Unknown)
+2025.05.25 20:30:14 Country: Unknown
+2025.05.25 20:30:14 Setting time left to 30
+2025.05.25 20:30:14 Asking for system password
+2025.05.25 20:30:15 Bad password attempt
+2025.05.25 20:30:15 Bad password attempt
+2025.05.25 20:30:16 Bad password attempt
+2025.05.25 20:30:16 Failed system password
+2025.05.25 20:30:16 Setting menu to "main" (Default start menu)
+2025.05.25 20:30:16 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 20:30:22 Connect from 190.4.23.186 (Unknown)
+2025.05.25 20:30:22 Country: Unknown
+2025.05.25 20:30:22 Setting time left to 30
+2025.05.25 20:30:22 Asking for system password
+2025.05.25 20:30:22 Bad password attempt
+2025.05.25 20:30:23 Bad password attempt
+2025.05.25 20:30:24 Bad password attempt
+2025.05.25 20:30:24 Failed system password
+2025.05.25 20:30:24 Setting menu to "main" (Default start menu)
+2025.05.25 20:30:24 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 20:30:26 Connect from 190.4.23.186 (Unknown)
+2025.05.25 20:30:26 Country: Unknown
+2025.05.25 20:30:26 Setting time left to 30
+2025.05.25 20:30:26 Asking for system password
+2025.05.25 20:30:27 Bad password attempt
+2025.05.25 20:30:28 Bad password attempt
+2025.05.25 20:30:28 Bad password attempt
+2025.05.25 20:30:28 Failed system password
+2025.05.25 20:30:28 Setting menu to "main" (Default start menu)
+2025.05.25 20:30:28 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 23:28:01 Connect from 61.1.246.33 (Unknown)
+2025.05.25 23:28:01 Country: Unknown
+2025.05.25 23:28:01 Setting time left to 30
+2025.05.25 23:28:01 Asking for system password
+2025.05.25 23:28:01 Bad password attempt
+2025.05.25 23:28:01 Bad password attempt
+2025.05.25 23:28:02 Bad password attempt
+2025.05.25 23:28:02 Failed system password
+2025.05.25 23:28:02 Setting menu to "main" (Default start menu)
+2025.05.25 23:28:02 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.25 23:28:05 Connect from 61.1.246.33 (Unknown)
+2025.05.25 23:28:05 Country: Unknown
+2025.05.25 23:28:05 Setting time left to 30
+2025.05.25 23:28:05 Asking for system password
+2025.05.25 23:28:05 Bad password attempt
+2025.05.25 23:28:06 Bad password attempt
+2025.05.25 23:28:06 Bad password attempt
+2025.05.25 23:28:06 Failed system password
+2025.05.25 23:28:06 Setting menu to "main" (Default start menu)
+2025.05.25 23:28:06 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 00:49:50 Connect from 1.68.228.33 (Unknown)
+2025.05.26 00:49:50 Country: Unknown
+2025.05.26 00:49:50 Setting time left to 30
+2025.05.26 00:49:50 Asking for system password
+2025.05.26 00:49:51 Bad password attempt
+2025.05.26 00:49:53 Bad password attempt
+2025.05.26 00:49:54 Bad password attempt
+2025.05.26 00:49:54 Failed system password
+2025.05.26 00:49:54 Setting menu to "main" (Default start menu)
+2025.05.26 00:49:54 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 01:39:22 Connect from 82.157.117.167 (Unknown)
+2025.05.26 01:39:22 Country: Unknown
+2025.05.26 01:39:22 Setting time left to 30
+2025.05.26 01:39:22 Asking for system password
+2025.05.26 01:39:23 Bad password attempt
+2025.05.26 01:39:24 Bad password attempt
+2025.05.26 01:39:24 Bad password attempt
+2025.05.26 01:39:24 Failed system password
+2025.05.26 01:39:24 Setting menu to "main" (Default start menu)
+2025.05.26 01:39:24 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:29:41 Connect from 221.152.237.18 (Unknown)
+2025.05.26 07:29:41 Country: Unknown
+2025.05.26 07:29:41 Setting time left to 30
+2025.05.26 07:29:41 Asking for system password
+2025.05.26 07:29:42 Bad password attempt
+2025.05.26 07:29:42 Bad password attempt
+2025.05.26 07:29:43 Bad password attempt
+2025.05.26 07:29:43 Failed system password
+2025.05.26 07:29:43 Setting menu to "main" (Default start menu)
+2025.05.26 07:29:43 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:29:46 Connect from 221.152.237.18 (Unknown)
+2025.05.26 07:29:46 Country: Unknown
+2025.05.26 07:29:46 Setting time left to 30
+2025.05.26 07:29:46 Asking for system password
+2025.05.26 07:29:47 Bad password attempt
+2025.05.26 07:29:47 Bad password attempt
+2025.05.26 07:29:48 Bad password attempt
+2025.05.26 07:29:48 Failed system password
+2025.05.26 07:29:48 Setting menu to "main" (Default start menu)
+2025.05.26 07:29:48 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:29:51 Connect from 221.152.237.18 (Unknown)
+2025.05.26 07:29:51 Country: Unknown
+2025.05.26 07:29:51 Setting time left to 30
+2025.05.26 07:29:51 Asking for system password
+2025.05.26 07:29:52 Bad password attempt
+2025.05.26 07:29:52 Bad password attempt
+2025.05.26 07:29:53 Bad password attempt
+2025.05.26 07:29:53 Failed system password
+2025.05.26 07:29:53 Setting menu to "main" (Default start menu)
+2025.05.26 07:29:53 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:31:04 Connect from 107.178.7.126 (107-178-7-126.ptr.nxlink.com)
+2025.05.26 07:31:04 Country: Unknown
+2025.05.26 07:31:04 Setting time left to 30
+2025.05.26 07:31:04 Asking for system password
+2025.05.26 07:31:05 Bad password attempt
+2025.05.26 07:31:05 Bad password attempt
+2025.05.26 07:31:36 Failed system password
+2025.05.26 07:31:36 Setting menu to "main" (Default start menu)
+2025.05.26 07:31:36 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:31:39 Connect from 132.147.158.168 (Unknown)
+2025.05.26 07:31:39 Country: Unknown
+2025.05.26 07:31:39 Setting time left to 30
+2025.05.26 07:31:39 Asking for system password
+2025.05.26 07:31:39 Bad password attempt
+2025.05.26 07:31:40 Bad password attempt
+2025.05.26 07:32:11 Failed system password
+2025.05.26 07:32:11 Setting menu to "main" (Default start menu)
+2025.05.26 07:32:11 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:32:13 Connect from 132.147.158.168 (Unknown)
+2025.05.26 07:32:13 Country: Unknown
+2025.05.26 07:32:13 Setting time left to 30
+2025.05.26 07:32:13 Asking for system password
+2025.05.26 07:32:13 Bad password attempt
+2025.05.26 07:32:14 Bad password attempt
+2025.05.26 07:32:45 Failed system password
+2025.05.26 07:32:45 Setting menu to "main" (Default start menu)
+2025.05.26 07:32:45 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:32:48 Connect from 132.147.158.168 (Unknown)
+2025.05.26 07:32:48 Country: Unknown
+2025.05.26 07:32:48 Setting time left to 30
+2025.05.26 07:32:48 Asking for system password
+2025.05.26 07:32:49 Bad password attempt
+2025.05.26 07:32:49 Bad password attempt
+2025.05.26 07:33:21 Failed system password
+2025.05.26 07:33:21 Setting menu to "main" (Default start menu)
+2025.05.26 07:33:21 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:33:23 Connect from 107.178.7.126 (107-178-7-126.ptr.nxlink.com)
+2025.05.26 07:33:23 Country: Unknown
+2025.05.26 07:33:23 Setting time left to 30
+2025.05.26 07:33:23 Asking for system password
+2025.05.26 07:33:23 Bad password attempt
+2025.05.26 07:33:23 Bad password attempt
+2025.05.26 07:33:55 Failed system password
+2025.05.26 07:33:55 Setting menu to "main" (Default start menu)
+2025.05.26 07:33:55 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:33:57 Connect from 132.147.158.168 (Unknown)
+2025.05.26 07:33:57 Country: Unknown
+2025.05.26 07:33:57 Setting time left to 30
+2025.05.26 07:33:57 Asking for system password
+2025.05.26 07:33:58 Bad password attempt
+2025.05.26 07:33:58 Bad password attempt
+2025.05.26 07:34:29 Failed system password
+2025.05.26 07:34:29 Setting menu to "main" (Default start menu)
+2025.05.26 07:34:29 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:42:18 Connect from 14.255.50.202 (static.vnpt.vn)
+2025.05.26 07:42:18 Country: Unknown
+2025.05.26 07:42:18 Setting time left to 30
+2025.05.26 07:42:18 Asking for system password
+2025.05.26 07:42:19 Bad password attempt
+2025.05.26 07:42:20 Bad password attempt
+2025.05.26 07:42:20 Bad password attempt
+2025.05.26 07:42:20 Failed system password
+2025.05.26 07:42:20 Setting menu to "main" (Default start menu)
+2025.05.26 07:42:20 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:42:23 Connect from 14.255.50.202 (static.vnpt.vn)
+2025.05.26 07:42:23 Country: Unknown
+2025.05.26 07:42:23 Setting time left to 30
+2025.05.26 07:42:23 Asking for system password
+2025.05.26 07:42:24 Bad password attempt
+2025.05.26 07:42:24 Bad password attempt
+2025.05.26 07:42:24 Bad password attempt
+2025.05.26 07:42:24 Failed system password
+2025.05.26 07:42:24 Setting menu to "main" (Default start menu)
+2025.05.26 07:42:24 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 07:42:27 Connect from 14.255.50.202 (static.vnpt.vn)
+2025.05.26 07:42:27 Country: Unknown
+2025.05.26 07:42:27 Setting time left to 30
+2025.05.26 07:42:27 Asking for system password
+2025.05.26 07:42:28 Bad password attempt
+2025.05.26 07:42:28 Bad password attempt
+2025.05.26 07:42:28 Bad password attempt
+2025.05.26 07:42:28 Failed system password
+2025.05.26 07:42:28 Setting menu to "main" (Default start menu)
+2025.05.26 07:42:28 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 08:26:37 Connect from 220.86.26.237 (Unknown)
+2025.05.26 08:26:37 Country: Unknown
+2025.05.26 08:26:37 Setting time left to 30
+2025.05.26 08:26:37 Asking for system password
+2025.05.26 08:26:38 Bad password attempt
+2025.05.26 08:26:39 Bad password attempt
+2025.05.26 08:26:40 Bad password attempt
+2025.05.26 08:26:40 Failed system password
+2025.05.26 08:26:40 Setting menu to "main" (Default start menu)
+2025.05.26 08:26:40 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 09:48:12 Connect from 221.166.140.136 (Unknown)
+2025.05.26 09:48:12 Country: Unknown
+2025.05.26 09:48:12 Setting time left to 30
+2025.05.26 09:48:12 Asking for system password
+2025.05.26 09:48:13 Bad password attempt
+2025.05.26 09:48:14 Bad password attempt
+2025.05.26 09:48:14 Bad password attempt
+2025.05.26 09:48:14 Failed system password
+2025.05.26 09:48:14 Setting menu to "main" (Default start menu)
+2025.05.26 09:48:14 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 09:48:17 Connect from 221.166.140.136 (Unknown)
+2025.05.26 09:48:17 Country: Unknown
+2025.05.26 09:48:17 Setting time left to 30
+2025.05.26 09:48:17 Asking for system password
+2025.05.26 09:48:17 Bad password attempt
+2025.05.26 09:48:18 Bad password attempt
+2025.05.26 09:48:19 Bad password attempt
+2025.05.26 09:48:19 Failed system password
+2025.05.26 09:48:19 Setting menu to "main" (Default start menu)
+2025.05.26 09:48:19 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 09:48:21 Connect from 221.166.140.136 (Unknown)
+2025.05.26 09:48:21 Country: Unknown
+2025.05.26 09:48:21 Setting time left to 30
+2025.05.26 09:48:21 Asking for system password
+2025.05.26 09:48:22 Bad password attempt
+2025.05.26 09:48:22 Bad password attempt
+2025.05.26 09:48:23 Bad password attempt
+2025.05.26 09:48:23 Failed system password
+2025.05.26 09:48:23 Setting menu to "main" (Default start menu)
+2025.05.26 09:48:23 Shutting down
+
+------------------- Node 2 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 09:48:41 Connect from 119.100.248.221 (Unknown)
+2025.05.26 09:48:41 Country: Unknown
+2025.05.26 09:48:41 Setting time left to 30
+2025.05.26 09:48:41 Asking for system password
+2025.05.26 09:48:42 Bad password attempt
+2025.05.26 09:48:44 Bad password attempt
+2025.05.26 09:48:45 Bad password attempt
+2025.05.26 09:48:45 Failed system password
+2025.05.26 09:48:45 Setting menu to "main" (Default start menu)
+2025.05.26 09:48:45 Shutting down

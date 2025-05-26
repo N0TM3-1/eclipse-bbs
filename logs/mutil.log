@@ -1,0 +1,73 @@
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sat, May 10 2025 (loglevel 2)
++ May 10 23:55:43  Startup using mutil.ini
++ May 10 23:55:43  Process: Pack User Base
++ May 10 23:55:43    Deleting user: john
++ May 10 23:55:43  Results: 1 deleted in 0.03s
++ May 10 23:55:43  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sat, May 10 2025 (loglevel 2)
++ May 10 23:58:54  Startup using mutil.ini
++ May 10 23:58:54  Process: Pack User Base
++ May 10 23:58:54    Deleting user: john
++ May 10 23:58:54      Msg #13
++ May 10 23:58:54      Msg #15
++ May 10 23:58:54  Results: 1 deleted in 0.03s
++ May 10 23:58:54  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sat, May 10 2025 (loglevel 2)
++ May 10 23:59:40  Startup using mutil.ini
++ May 10 23:59:40  Process: Pack User Base
++ May 10 23:59:40    Deleting user: john
++ May 10 23:59:40      Msg #16
++ May 10 23:59:40  Results: 1 deleted in 0.03s
++ May 10 23:59:40  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:06:06  Startup using mutil.ini
++ May 11 00:06:06  Process: Pack User Base
++ May 11 00:06:06    Deleting user: john
++ May 11 00:06:06      Msg #18
++ May 11 00:06:06  Results: 1 deleted in 0.05s
++ May 11 00:06:06  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:07:54  Startup using mutil.ini
++ May 11 00:07:54  Process: Pack User Base
++ May 11 00:07:54    Deleting user: juhn
++ May 11 00:07:54      Msg #20
++ May 11 00:07:54  Results: 1 deleted in 0.02s
++ May 11 00:07:54  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:09:59  Startup using mutil.ini
++ May 11 00:09:59  Process: Pack User Base
++ May 11 00:09:59  Results: 0 deleted in 0.02s
++ May 11 00:09:59  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:39:30  Startup using mutil.ini
++ May 11 00:39:30  Process: Pack User Base
++ May 11 00:39:30    Deleting user: a
++ May 11 00:39:30  Results: 1 deleted in 0.03s
++ May 11 00:39:30  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:39:45  Startup using mutil.ini
++ May 11 00:39:45  Process: Pack User Base
++ May 11 00:39:45  Results: 0 deleted in 0.00s
++ May 11 00:39:45  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 00:47:40  Startup using mutil.ini
++ May 11 00:47:40  Process: Pack User Base
++ May 11 00:47:40    Deleting user: a
++ May 11 00:47:40  Results: 1 deleted in 0.02s
++ May 11 00:47:40  Shutdown Normal (0)
+
+-----------------  MUTIL v1.12 A48 2023/01/15 Sun, May 11 2025 (loglevel 2)
++ May 11 11:42:19  Startup using mutil.ini
++ May 11 11:42:19  Process: Pack User Base
++ May 11 11:42:19    Deleting user: a
++ May 11 11:42:19  Results: 1 deleted in 0.03s
++ May 11 11:42:19  Shutdown Normal (0)
