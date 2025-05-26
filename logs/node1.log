@@ -8570,3 +8570,11 @@
 2025.05.26 14:40:10 Failed system password
 2025.05.26 14:40:10 Setting menu to "main" (Default start menu)
 2025.05.26 14:40:10 Shutting down
+
+------------------- Node 1 (Mystic v1.12 A48 2023/01/15)
+2025.05.26 14:43:15 Connect from 185.196.220.81 (Unknown)
+2025.05.26 14:43:15 Country: Unknown
+2025.05.26 14:43:15 Setting time left to 30
+2025.05.26 14:43:15 Asking for system password
+2025.05.26 14:43:16 Bad password attempt
+2025.05.26 14:43:16 Bad password attempt
