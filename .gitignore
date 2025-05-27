@@ -1,0 +1,48 @@
+# MysticBBS sensitive files and folders
+
+# Configuration and settings
+*.ini
+*.cfg
+*.dat
+*.bak
+*.tmp
+*.old
+
+# Logs
+*.log
+logs/
+log/
+
+# User data and message bases
+data/
+msgs/
+users/
+user/
+files/
+filebase/
+file_id.diz
+
+# Backups
+backup/
+*.backup
+
+# Miscellaneous sensitive files
+*.pwd
+*.key
+*.sec
+*.enc
+*.db
+
+# System files
+*.sys
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.~lock.*
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
