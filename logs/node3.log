@@ -89,3 +89,15 @@
 2025.05.25 17:24:14 Failed system password
 2025.05.25 17:24:14 Setting menu to "main" (Default start menu)
 2025.05.25 17:24:14 Shutting down
+
+------------------- Node 3 (Mystic v1.12 A48 2023/01/15)
+2025.05.27 00:31:59 Connect from 202.110.159.129 (Unknown)
+2025.05.27 00:31:59 Country: Unknown
+2025.05.27 00:31:59 Setting time left to 30
+2025.05.27 00:31:59 Asking for system password
+2025.05.27 00:32:00 Bad password attempt
+2025.05.27 00:32:01 Bad password attempt
+2025.05.27 00:32:02 Bad password attempt
+2025.05.27 00:32:02 Failed system password
+2025.05.27 00:32:02 Setting menu to "main" (Default start menu)
+2025.05.27 00:32:02 Shutting down
